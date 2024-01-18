@@ -28,7 +28,7 @@ class MainActivity : ComponentActivity() {
                 ) {
                     Column {
                         Greeting("INF2007")
-                        From("Alan")
+                        From("Elon Musk")
                     }
                 }
             }
@@ -74,7 +74,7 @@ fun GreetingPreview() {
     HelloINF2007Theme {
         Column {
             Greeting("INF2007")
-            From("Alan")
+            From("Elon Musk")
         }
     }
 }
